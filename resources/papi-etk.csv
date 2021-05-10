@@ -1,0 +1,165 @@
+﻿Varázslat Neve;Mp;E;+E/Mp;Varázslás Ideje;Időtartam;Hatótáv;ME Típusa;Arkánum;Típus;Szféra
+Érzékelés-mágia;1;1;1/1;1k;1perc/2Tsz;20m;Leplezés;Kis arkánum;litániái;Általános
+Mágia kifürkészése;1;1;1/1;5sz;Egyszeri;20m;Leplezés;Kis arkánum;litániái;Általános
+Mágia szétoszlatása;1;1;1/1;1k;Egyszeri;20m;Mágia Mp-je;Kis arkánum;litániái;Általános
+Leplezés;1;1;1/1;+1k;Varázslaté;varázslat;;Kis arkánum;litániái;Általános
+Áldás;3;5;-;5sz;1hónap/Tsz;Érintés;;Kis arkánum;litániái;Általános
+Ima;3;5;-;3sz;2kör/Tsz*;20m;;Kis arkánum;litániái;Általános
+Szent fény;3;15;-;1sz;1perc/Tsz*;Érintés;;Kis arkánum;litániái;Általános
+A hatalom szava;15;35;2/1;1sz;Egyszeri;30m;Mentál;Kis arkánum;litániái;Általános
+Rendreutasítás;2;25;3/1;1sz;;20m;mentális;Kis arkánum;rituáléi;Általános
+Szertartás;3;1;-;változó;Maradandó;Változó;;Kis arkánum;rituáléi;Általános
+Aszkézis;9;1;-;1 ó;1 nap;önmaga;;Kis arkánum;rituáléi;Általános
+Hit hatalma;9;1;-;1sz;;önmaga;;Kis arkánum;rituáléi;Általános
+Transz;18;1;-;1ó;Egyszeri;önmaga;;Nagy arkánum;rituáléi;Általános
+Varázstárgy készítés;Változó;;;;;;;Nagy arkánum;litániái;Általános
+Érzékelés-átok;13;25;1/1;1p;Egyszeri;érintés;x;Nagy arkánum;litániái;Általános
+Feloldozás;30;20;-;1k;Spec.;20m;;Nagy arkánum;litániái;Általános
+Kárhozat;30;1;-;1k;Egyszeri;20m;;Nagy arkánum;litániái;Általános
+Kiátkozás;30;20;-;1k;Maradandó;20m;;Nagy arkánum;litániái;Általános
+Űzés-átok;35;10;1/1;;Egyszeri;Éintés;;Nagy arkánum;litániái;Általános
+Isteni áldás;90;25;1/2;3sz;1perc/Tsz;20m;;Nagy arkánum;rituáléi;Általános
+Külső síkok lényeinek megidézése;80;1;-;1sz;Speciális;-;;Nagy arkánum;rituáléi;Általános
+Audiencia;200;1;-;1ó;Változó;Önmaga;;Nagy arkánum;rituáléi;Általános
+Istenek hona;320;1;-;3ó;1perc;20m;;Kis arkánum;rituáléi;Általános
+A halál érintése;4;1;1/1;1sz;Egyszeri;20m;Életerő;Kis arkánum;litániái;Halál
+Méregérzékelés;5;15;1/1;2k;Egyszeri;5m;Lepl E;Kis arkánum;litániái;Halál
+Vérgyűjtés;5;1;-;3sz;1perc/Tsz;20m;;Kis arkánum;litániái;Halál
+Méreg elkészítése;8;1;-;10p;Egyszeri;érintés;;Kis arkánum;litániái;Halál
+Vámpírok öröksége;8;1;-;3k;5perc/Tsz;Önmaga;;Kis arkánum;litániái;Halál
+Káoszkard;10;1;-;1sz;3kör/Tsz*;Érintés;;Kis arkánum;litániái;Halál
+Láthatatlanság túlvilági lények elől;10;5;2/1;2sz;5perc/Tsz;Érintés;láthatatlanság;Kis arkánum;litániái;Halál
+Védekezés a „jótól”;15;20;3/1;1k;3k/Tsz;15m;Mentál;Kis arkánum;litániái;Halál
+Időtlen álom;18;5;2/1;1p;Spec.;Érintés;Mentális;Kis arkánum;litániái;Halál
+Mérgek erősítése;Spec.;1;-;1p;1nap/2Tsz;érintés;;Kis arkánum;rituáléi;Halál
+Életerő csapolás;1Fp/1Mp(1szegmens);;;;;;;Kis arkánum;rituáléi;Halál
+1Ép/2Mp(5szegmens);;;;Egyszeri;érintés;Életerő;;Kis arkánum;rituáléi;Halál
+Vérből sav;6;1;-;1k;Egyszeri;5m;;Kis arkánum;rituáléi;Halál
+Vérzés;7;2;5/1;1sz;1kör/Tsz;20m;Egészség;Kis arkánum;rituáléi;Halál
+Véráldozat;10;1;1/1;3sz;2perc/Tsz;20m;Egészség;Kis arkánum;rituáléi;Halál
+Vérgát;18;1;-;3p;1nap/Tsz;Érintés;Spec.;Kis arkánum;rituáléi;Halál
+Intő jel;25;3;2/1;1sz;Egyszeri;20m;Mentál;Nagy arkánum;rituáléi;Halál
+Mérgezés;Spec.;Spec;Spec;1sz;Egyszeri;Érintés;Egészség;Nagy arkánum;litániái;Halál
+A halál lehelete;6;1;6/1;1sz;Egyszeri;1m/Tsz;Életerő;Nagy arkánum;litániái;Halál
+Izzó vér;9;2;6/1;3sz;2kör/Tsz;20m;Egészség;Nagy arkánum;litániái;Halál
+Holttá válás;10;1;-;6k;10perc/Tsz*;Önmaga;;Nagy arkánum;litániái;Halál
+Vérdermesztés;10;1;8/1;3sz;1kör/Tsz;20m;Egészség;Nagy arkánum;litániái;Halál
+Mérgező lehelet;13;1;-;1p;1óra/Tsz;Önmaga;;Nagy arkánum;litániái;Halál
+Esszencia elrablása;15;1;-;1p;1óra/Tsz;Önmaga;;Nagy arkánum;litániái;Halál
+Holtak megelevenítése;20;1;-;1k;5perc/Tsz;20m;;Nagy arkánum;litániái;Halál
+Átok;25;1;1/1;Spec.;Maradandó;20m;Egészség;Nagy arkánum;litániái;Halál
+A halál szava;40;5;2/1;1sz;Egyszeri;20m;Asztrál;Nagy arkánum;litániái;Halál
+Halálelementál idézése;50;1;-;10k;1perc/Tsz;3m;;Nagy arkánum;litániái;Halál
+Kitörlés;20;1;-;1sz;Egyszeri;20m;Speciális;Nagy arkánum;rituáléi;Halál
+Lélekcsapda;35;1;-;1k;5év/Tsz*;20m;;Nagy arkánum;rituáléi;Halál
+Lélekáldozat;45;10;4/1;2p;Egyszeri;Érintés;Asztrál;Nagy arkánum;rituáléi;Halál
+Eggyé válás;65;1;-;1ó;Egyszeri;Érintés;;Nagy arkánum;rituáléi;Halál
+Gólem teremtés (halál);80;1;-;1n;Maradandó;Érintés;;Nagy arkánum;rituáléi;Halál
+Pestis;90;1;-;10p;Spec.;Érintés;;Nagy arkánum;rituáléi;Halál
+Átkozott föld;110;110;1/1;1n;Maradandó;Érintés;;Nagy arkánum;rituáléi;Halál
+Vérgólem készítése;155;1;-;20p;Maradandó;;;kis arkánum;rituáléi;Halál
+Sebvizsgálat;0*;-;-;1 kör;egyszeri;kézfölététel;;kis arkánum;litániái;Élet
+Gyógyítás;3Fp - 1 MP;;;;;;;kis arkánum;litániái;Élet
+Mérgezés;35;8 kör;egyszeri;érintés;-;;;kis arkánum;litániái;Élet
+Élet érzékékelése;2;5;-;2k;1kör/Tsz;30m;;kis arkánum;litániái;Élet
+Tisztító tűz;4;1;1/1;1sz;Egyszeri;20m;;kis arkánum;litániái;Élet
+Méregérzékelés;5;15;1/1;2k;Egyszeri;5m;Lepl E;kis arkánum;litániái;Élet
+Élelemteremtés;7;1;-;1k;Egyszeri;Érintés;;kis arkánum;litániái;Élet
+Láthatatlanság túlvilági lények elől;10;5;2/1;2sz;5perc/Tsz;Érintés;Láthatatlanság;kis arkánum;litániái;Élet
+Láthatatlanság evilági lények elől;10;5;2/1;2sz;5perc/Tsz;Érintés;Láthatatlanság;kis arkánum;litániái;Élet
+Óvó pajzs;10;1;-;1sz;3kör/Tsz*;Érintés;;kis arkánum;litániái;Élet
+Védekezés a „gonosztól”;15;10;3/2;1k;3k/Tsz;10m;Mentál;Kis arkánum;litániái;Élet
+Méreg elpusztítása;2;1;;1sz;Egyszeri;5m;;Kis arkánum;rituáléi;Élet
+Az élet szentsége;2;5;1/1;3sz;1óra/Tsz;20m;Asztrál;Kis arkánum;rituáléi;Élet
+Termékenység;3;1;-;1p;1nap/Tsz;Érintés;;Kis arkánum;rituáléi;Élet
+Életpajzs;6;1;1/1;1sz;3kör/Tsz;20m;;Kis arkánum;rituáléi;Élet
+Elmúlt életek;6;10;1/2;1p;1perc;20m;Mentál és Asztrál;Kis arkánum;rituáléi;Élet
+Fájdalomcsillapítás;7;25;1/2;1p;1óra/Tsz;Érintés;Mentál;Kis arkánum;rituáléi;Élet
+Védelem a betegségektől;10;1;-;2k;5perc/Tsz;Érintés;;Kis arkánum;rituáléi;Élet
+Védelem a mérgektől;10;1;-;2k;5perc/Tsz;Érintés;;Kis arkánum;rituáléi;Élet
+Őrző aura;20;25;1/1;1p;1óra/Tsz;Érintés;Mentál;Nagy arkánum;rituáléi;Élet
+Segélykérés;Spec.;25;1/1;spec;Speciális;Speciális;Térmágia és Szimpatikus;Nagy arkánum;litániái;Élet
+Gyóntatás;6;1;-;5p;4nap;Érintés;;Nagy arkánum;litániái;Élet
+Halálon túli védelem;10;1;-;1p;1nap/Tsz;Érintés;;Nagy arkánum;litániái;Élet
+Regeneráció;15;1;-;1p;1óra/Tsz*;Érintés;;Nagy arkánum;litániái;Élet
+Védelem a holtaktól;15;1;-;3sz;5perc/Tsz;Érintés;;Nagy arkánum;litániái;Élet
+Összetartozás életerővel;30;1;-;5k;5perc/Tsz;Érintés;;Nagy arkánum;litániái;Élet
+Az élet szava;40;1;-;1sz;Egyszeri;20m;;Nagy arkánum;litániái;Élet
+Életelementál idézése;50;1;-;10k;1perc/Tsz;3m;;Nagy arkánum;litániái;Élet
+Hazatérés;55;10;2/1;1sz;Egyszeri;Önmaga;Térmágia;Nagy arkánum;litániái;Élet
+Az élet köre;70;1;-;1ó;10nap/Tsz;Érintés;;Nagy arkánum;rituáléi;Élet
+Feltámasztás;Spec;1;-;;;Érintés;;Nagy arkánum;rituáléi;Élet
+Gólem teremtés (élet);90;-;-;1 nap;maradandó;érintés;-;Nagy arkánum;rituáléi;Élet
+Kitörlés;17;1;-;1sz;Egyszeri;20m;;Nagy arkánum;rituáléi;Élet
+Gyógyító eső;Spec;1;-;Spec;Egyszeri;15m;;Nagy arkánum;rituáléi;Élet
+Mérgek kipurgálása;30;1;-;3sz;Egyszeri;20m;;Nagy arkánum;rituáléi;Élet
+Űzés-túlvilági lények;15;1;-;3sz;1óra/Tsz;20m;Speciális;Nagy arkánum;rituáléi;Élet
+Az élet diadala;120;1;-;3sz;Egyszeri;15m;;kis arkánum;rituáléi;Élet
+Mentálpillantás;4;30;44228;1k;1perc;Érintés;Mentál;kis arkánum;litániái;Lélek
+Asztrálpillantás;4;30;44228;1k;1perc;Érintés;Asztrál;kis arkánum;litániái;Lélek
+Kétkedés;3;5;1,5/1;1sz;6kör;20m;Mentál;kis arkánum;litániái;Lélek
+Jellem érzékelés;2;3;1/2;1k;1perc;20m;Mentál;kis arkánum;litániái;Lélek
+Meggyőzés;4;10;1/2;3sz;1perc/Tsz;20m;Mentál;kis arkánum;litániái;Lélek
+Parancs;8;10;1/1;2sz;1kör/Tsz;20m;Mentál;kis arkánum;litániái;Lélek
+Rettegés;8;2;1/1;2sz;1perc/Tsz;20m;Asztrál;kis arkánum;litániái;Lélek
+Érzékelés – hazugság;8;5;1/1;3sz;1perc/Tsz;20m;Mentál;kis arkánum;litániái;Lélek
+Fanatizálás;Spec.;100;-;1p;5perc/Tsz;20m;-;kis arkánum;litániái;Lélek
+Fájdalom;1;10;1/1;1sz;Egyszeri;20m;Mentál;kis arkánum;litániái;Lélek
+Álomút;35;1;-;6k;15perc;Önmaga;;Kis arkánum;litániái;Lélek
+Bénítás;15;1;1/1;1sz;1kör/Tsz;20m;Mentál;Kis arkánum;rituáléi;Lélek
+Fájdalomcsillapítás;7;25;1/2;1p;1óra/Tsz;Érintés;Mentál;Kis arkánum;rituáléi;Lélek
+Igaz szó;33;20;1/1;1k;5perc/Tsz;20m;Mentál;Kis arkánum;rituáléi;Lélek
+Szférák zenéje;18;1;-;10k;1óra;20m;-;Kis arkánum;rituáléi;Lélek
+Intő jel;25;3;2/1;1sz;Egyszeri;20m;Mentál;Kis arkánum;rituáléi;Lélek
+Őrző aura;20;25;1/1;1p;1óra/Tsz;Érintés;-;Kis arkánum;rituáléi;Lélek
+Hősi lélek;40;1;-;3sz;1kör/Tsz;Érintés;-;Kis arkánum;rituáléi;Lélek
+Hazugság;8;5;1/1;3sz;1perc/Tsz;Érintés;Spec;Kis arkánum;rituáléi;Lélek
+Útmutatás;22;5;2/1;1p;10perc/Tsz;50km/Tsz;Mentál;Nagy arkánum;rituáléi;Lélek
+Hang;12;6;2/1;2k;2kör;Végtelen;Mentál;Nagy arkánum;litániái;Lélek
+Űzés-evilági lények;35;20;2/1;1sz;24nap;20m;Asztrál;Nagy arkánum;litániái;Lélek
+Lélekfátyol;15;3/Tsz;-;3sz;2perc/Tsz;Érintés;-;Nagy arkánum;litániái;Lélek
+Asztrálpöröly;17;3/Tsz;-;1sz;1perc/Tsz;20m;-;Nagy arkánum;litániái;Lélek
+Mentálpöröly;17;3/Tsz;-;1sz;1perc/Tsz;20m;-;Nagy arkánum;litániái;Lélek
+Láthatatlanság felfedezése;8;5;1,5/1;2sz;12perc;20m;Mentál;Nagy arkánum;litániái;Lélek
+Lélekelementál idézése;40;200;-;10p;5p/Tsz;5m;-;Nagy arkánum;litániái;Lélek
+Téboly;45;10;3/1;1sz;Egyszeri;20m;Asztrál;Nagy arkánum;litániái;Lélek
+Őrület gyógyítása;35;1;-;1p;Egyszeri;Érintés;-;Nagy arkánum;litániái;Lélek
+Asztrális viadal;;;;;;;;Nagy arkánum;rituáléi;Lélek
+Mentális viadal;;;;;;;;Nagy arkánum;rituáléi;Lélek
+Poklok kínjai;30;5;2/1;1sz;5kör;20m;Mentál;Nagy arkánum;rituáléi;Lélek
+Összetartozás asztrálisan;40+spec;1;-;5p;1óra/3Tsz;5m/1Km;-;Nagy arkánum;rituáléi;Lélek
+Összetartozás mentálisan;40+spec;1;-;5p;1óra/3Tsz;5m/1Km;-;Nagy arkánum;rituáléi;Lélek
+Lélekcsapda;35;1;-;1k;5év/Tsz*;20m;-;Nagy arkánum;rituáléi;Lélek
+Lélekfaló;50;15;3/1;3k;1nap/Tsz;20m;Mentál és Asztrál;Nagy arkánum;rituáléi;Lélek
+Egyesülés;120;1;-;1óra;2óra/Tsz;Érintés/ Végtelen;-;Kis arkánum;rituáléi;Lélek
+Csapás;4;1;4/1;1sz;Egyszeri;20m;SFÉ;Kis arkánum;litániái;Természet
+Méregérzékelés;5;15;1/1;2k;Egyszeri;5m;Lepl E;Kis arkánum;litániái;Természet
+Élelemteremtés;7;1;-;1k;Egyszeri;Érintés;Spec.;Kis arkánum;litániái;Természet
+Csend;8;5;-;2sz;1perc/Tsz;Érintés;Hangmágia;Kis arkánum;litániái;Természet
+Méreg elkészítése;8;1;-;10p;Egyszeri;Érintés;-;Kis arkánum;litániái;Természet
+Vízfakasztás;8;5;-;4k;3kör/Tsz;érintés;Spec.;Kis arkánum;litániái;Természet
+Láthatatlanság evilági lények elől;10;5;2/1;2sz;5perc/Tsz;Érintés;Láthatatlanság;Kis arkánum;litániái;Természet
+Vízlégzés;21;1;-;6sz;1perc/Tsz;Önmaga;-;Kis arkánum;litániái;Természet
+Élőlény megkeresése;6;1;1/1;1p;5perc/Tsz;1Km*;Mentál;Kis arkánum;rituáléi;Természet
+Tájékozódás;7;1;-;1k;10perc/Tsz;Önmaga;-;Kis arkánum;rituáléi;Természet
+Barátság állatokkal;10;5;1,5/1;1k;5perc/Tsz;Önmaga;Asztrál;Kis arkánum;rituáléi;Természet
+Köd felidézése;10;5;-;4sz;1perc/Tsz;20m;Időjárás;Kis arkánum;rituáléi;Természet
+Beszéd állatokkal;15;1;-;1p;5perc/Tsz;Önmaga;-;Kis arkánum;rituáléi;Természet
+Regeneráció;15;1;-;1p;1óra/Tsz*;Érintés;-;Kis arkánum;rituáléi;Természet
+Vadak szólítása;15;5;1/1;14k;Egyszeri;2Km;Mentál;Kis arkánum;rituáléi;Természet
+Villámcsapás;18;3;6/1;1sz;Egyszeri;20m;Villám;Kis arkánum;rituáléi;Természet
+Szent tűz;36;6;6/1;1sz;Egyszeri;20m;Tűz;Nagy arkánum;rituáléi;Természet
+Engedelmesség növények;5;1;-;2k;1Perc/Tsz;20m;-;Nagy arkánum;Litániái;Természet
+Elemi védelem;10;1;10/1;1sz;1perc/Tsz*;Érintés;-;Nagy arkánum;Litániái;Természet
+Szétzúzás;15;25;-;1sz;Egyszeri;20m;Természetes anyagok mágiája;Nagy arkánum;Litániái;Természet
+Engedelmesség állatok;15;5;1/2;2k;1perc/Tsz;20m;Mentál;Nagy arkánum;Litániái;Természet
+Élőlény megidézése;19;1;1/1;2k;Egyszeri;100Km;Mentál, Térmágia;Nagy arkánum;Litániái;Természet
+Vihar;27;15;-;25p;1óra;1km;Időjárás;Nagy arkánum;Litániái;Természet
+Elemi lények szólítása;35;25;1/1;10k;10kör/Tsz;5m;Térmágia;Nagy arkánum;Litániái;Természet
+Égi szekér;65;35;1/1;6k;15perc/Tsz;5m;Térmágia;Nagy arkánum;Litániái;Természet
+Természet megidézése;60;5;-;2k;3k/Tsz;15m;-;Nagy arkánum;rituáléi;Természet
+Földrengés;80;50;-;40k;5perc/Tsz;5km;Időjárás;Nagy arkánum;rituáléi;Természet
+Őselemek felidézése;85;60;1/1;10k;1perc/Tsz;-;Térmágia;Nagy arkánum;rituáléi;Természet
+Síkkapu;95;65;1/1;30k;1perc/Tsz;20m;Térmágia;Nagy arkánum;rituáléi;Természet
+Őselemek uralma;135;100;1/1;10k;1perc/Tsz;-;Térmágia;Nagy arkánum;rituáléi;Természet
+Időjárás ellenőrzése;55, 100;65;-;24k;3perc/Tsz;2km;Időjárás;arkánum;rituáléi;Természet
