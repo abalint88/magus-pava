@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import { magusData, columns } from "./data"
-import MaterialTable from 'material-table';
+import MUIDataTable from 'mui-datatables';
 
 function App() {
   return (
@@ -10,13 +10,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <div style={{ maxWidth: '100%' }}>
-          <MaterialTable options={{
+          <MUIDataTable options={{
             filtering: true,
             paging: false,
             fixedColumns: {
               left: 1
             }
-          }} columns={columns} data={magusData} title='Books Directory' />
+          }} columns={columns} data={magusData} title='Papi varázslatok' />
         </div>
       </header>
     </div>

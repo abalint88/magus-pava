@@ -1,19 +1,19 @@
 export const columns = [
     {
-        title: 'Varázslat', field: 'spell'
+        label: 'Varázslat', name: 'spell'
     },
-    { title: 'Mp', field: 'mp' },
-    { title: 'E', field: 'e' },
-    { title: '+E/Mp', field: 'emp' },
-    { title: 'Varázslás Ideje', field: 'cast_time' },
-    { title: 'Időtartam', field: 'duration' },
-    { title: 'Hatótáv', field: 'range' },
-    { title: 'ME Típusa', field: 'me_type' },
-    { title: 'Arkánum', field: 'arcanum' },
-    { title: 'Típus', field: 'type' },
+    { label: 'Mp', name: 'mp' },
+    { label: 'E', name: 'e' },
+    { label: '+E/Mp', name: 'emp' },
+    { label: 'Varázslás Ideje', name: 'cast_time' },
+    { label: 'Időtartam', name: 'duration' },
+    { label: 'Hatótáv', name: 'range' },
+    { label: 'ME Típusa', name: 'me_type' },
+    { label: 'Arkánum', name: 'arcanum' },
+    { label: 'Típus', name: 'type' },
     {
-        title: 'Szféra',
-        field: 'sphere',
+        label: 'Szféra',
+        name: 'sphere',
         lookup: {
             "Általános": "Általános",
             "Halál": "Halál",
