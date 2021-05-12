@@ -1,3 +1,4 @@
+/*
 export const columns = [
     {
         label: 'Varázslat', name: 'spell'
@@ -23,6 +24,7 @@ export const columns = [
         },
     },
 ];
+*/
 
 export const magusData = [
     {
@@ -35,7 +37,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Leplezés",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -48,7 +50,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Leplezés",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -61,7 +63,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mágia mp-je",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -74,7 +76,7 @@ export const magusData = [
         "range": "varázslat",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -87,7 +89,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -100,7 +102,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -113,7 +115,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -126,7 +128,7 @@ export const magusData = [
         "range": "30m",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -139,7 +141,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "mentális",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Általános"
     },
     {
@@ -152,7 +154,7 @@ export const magusData = [
         "range": "Változó",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Általános"
     },
     {
@@ -165,7 +167,7 @@ export const magusData = [
         "range": "önmaga",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Általános"
     },
     {
@@ -178,7 +180,7 @@ export const magusData = [
         "range": "önmaga",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Általános"
     },
     {
@@ -191,7 +193,7 @@ export const magusData = [
         "range": "önmaga",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Általános"
     },
     {
@@ -204,7 +206,7 @@ export const magusData = [
         "range": "",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -217,7 +219,7 @@ export const magusData = [
         "range": "érintés",
         "me_type": "x",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -230,7 +232,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -243,7 +245,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -256,7 +258,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -269,7 +271,7 @@ export const magusData = [
         "range": "Éintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Általános"
     },
     {
@@ -282,7 +284,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Általános"
     },
     {
@@ -295,7 +297,7 @@ export const magusData = [
         "range": "-",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Általános"
     },
     {
@@ -308,7 +310,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Általános"
     },
     {
@@ -321,7 +323,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Általános"
     },
     {
@@ -334,7 +336,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Életerő",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -347,7 +349,7 @@ export const magusData = [
         "range": "5m",
         "me_type": "Lepl E",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -360,7 +362,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -373,7 +375,7 @@ export const magusData = [
         "range": "érintés",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -386,7 +388,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -399,7 +401,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -412,7 +414,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "láthatatlanság",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -425,7 +427,7 @@ export const magusData = [
         "range": "15m",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -438,7 +440,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Mentális",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -451,7 +453,7 @@ export const magusData = [
         "range": "érintés",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -464,7 +466,7 @@ export const magusData = [
         "range": "",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -477,7 +479,7 @@ export const magusData = [
         "range": "Életerő",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -490,7 +492,7 @@ export const magusData = [
         "range": "5m",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -503,7 +505,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Egészség",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -516,7 +518,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Egészség",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -529,7 +531,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Spec.",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -542,7 +544,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -555,7 +557,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Egészség",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -568,7 +570,7 @@ export const magusData = [
         "range": "1m/Tsz",
         "me_type": "Életerő",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -581,7 +583,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Egészség",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -594,7 +596,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -607,7 +609,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Egészség",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -620,7 +622,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -633,7 +635,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -646,7 +648,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -659,7 +661,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Egészség",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -672,7 +674,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Asztrál",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -685,7 +687,7 @@ export const magusData = [
         "range": "3m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Halál"
     },
     {
@@ -698,7 +700,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Speciális",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -711,7 +713,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -724,7 +726,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Asztrál",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -737,7 +739,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -750,7 +752,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -763,7 +765,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -776,7 +778,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -789,7 +791,7 @@ export const magusData = [
         "range": "",
         "me_type": "",
         "arcanum": "kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Halál"
     },
     {
@@ -802,7 +804,7 @@ export const magusData = [
         "range": "kézfölététel",
         "me_type": "",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -815,7 +817,7 @@ export const magusData = [
         "range": "",
         "me_type": "",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -828,7 +830,7 @@ export const magusData = [
         "range": "",
         "me_type": "",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -841,7 +843,7 @@ export const magusData = [
         "range": "30m",
         "me_type": "",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -854,7 +856,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -867,7 +869,7 @@ export const magusData = [
         "range": "5m",
         "me_type": "Lepl E",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -880,7 +882,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -893,7 +895,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Láthatatlanság",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -906,7 +908,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Láthatatlanság",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -919,7 +921,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -932,7 +934,7 @@ export const magusData = [
         "range": "10m",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -945,7 +947,7 @@ export const magusData = [
         "range": "5m",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -958,7 +960,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Asztrál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -971,7 +973,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -984,7 +986,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -997,7 +999,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál és Asztrál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1010,7 +1012,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1023,7 +1025,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1036,7 +1038,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1049,7 +1051,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Mentál",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1062,7 +1064,7 @@ export const magusData = [
         "range": "Speciális",
         "me_type": "Térmágia és Szimpatikus",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -1075,7 +1077,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -1088,7 +1090,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -1101,7 +1103,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -1114,7 +1116,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -1127,7 +1129,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -1140,7 +1142,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -1153,7 +1155,7 @@ export const magusData = [
         "range": "3m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -1166,7 +1168,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "Térmágia",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Élet"
     },
     {
@@ -1179,7 +1181,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1192,7 +1194,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1205,7 +1207,7 @@ export const magusData = [
         "range": "érintés",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1218,7 +1220,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1231,7 +1233,7 @@ export const magusData = [
         "range": "15m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1244,7 +1246,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1257,7 +1259,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Speciális",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1270,7 +1272,7 @@ export const magusData = [
         "range": "15m",
         "me_type": "",
         "arcanum": "kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Élet"
     },
     {
@@ -1283,7 +1285,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Mentál",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1296,7 +1298,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Asztrál",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1309,7 +1311,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1322,7 +1324,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1335,7 +1337,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1348,7 +1350,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1361,7 +1363,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Asztrál",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1374,7 +1376,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1387,7 +1389,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "-",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1400,7 +1402,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1413,7 +1415,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1426,7 +1428,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1439,7 +1441,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1452,7 +1454,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1465,7 +1467,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "-",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1478,7 +1480,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1491,7 +1493,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "-",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1504,7 +1506,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "-",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1517,7 +1519,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Spec",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1530,7 +1532,7 @@ export const magusData = [
         "range": "50km/Tsz",
         "me_type": "Mentál",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1543,7 +1545,7 @@ export const magusData = [
         "range": "Végtelen",
         "me_type": "Mentál",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1556,7 +1558,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Asztrál",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1569,7 +1571,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1582,7 +1584,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1595,7 +1597,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1608,7 +1610,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1621,7 +1623,7 @@ export const magusData = [
         "range": "5m",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1634,7 +1636,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Asztrál",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1647,7 +1649,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Lélek"
     },
     {
@@ -1660,7 +1662,7 @@ export const magusData = [
         "range": "",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1673,7 +1675,7 @@ export const magusData = [
         "range": "",
         "me_type": "",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1686,7 +1688,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1699,7 +1701,7 @@ export const magusData = [
         "range": "5m/1Km",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1712,7 +1714,7 @@ export const magusData = [
         "range": "5m/1Km",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1725,7 +1727,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1738,7 +1740,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál és Asztrál",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1751,7 +1753,7 @@ export const magusData = [
         "range": "Érintés/ Végtelen",
         "me_type": "-",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Lélek"
     },
     {
@@ -1764,7 +1766,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "SFÉ",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -1777,7 +1779,7 @@ export const magusData = [
         "range": "5m",
         "me_type": "Lepl E",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -1790,7 +1792,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Spec.",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -1803,7 +1805,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Hangmágia",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -1816,7 +1818,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "-",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -1829,7 +1831,7 @@ export const magusData = [
         "range": "érintés",
         "me_type": "Spec.",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -1842,7 +1844,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "Láthatatlanság",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -1855,7 +1857,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "-",
         "arcanum": "Kis arkánum",
-        "type": "litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -1868,7 +1870,7 @@ export const magusData = [
         "range": "1Km*",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -1881,7 +1883,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "-",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -1894,7 +1896,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "Asztrál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -1907,7 +1909,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Időjárás",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -1920,7 +1922,7 @@ export const magusData = [
         "range": "Önmaga",
         "me_type": "-",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -1933,7 +1935,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "-",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -1946,7 +1948,7 @@ export const magusData = [
         "range": "2Km",
         "me_type": "Mentál",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -1959,7 +1961,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Villám",
         "arcanum": "Kis arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -1972,7 +1974,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Tűz",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -1985,7 +1987,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "Litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -1998,7 +2000,7 @@ export const magusData = [
         "range": "Érintés",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "Litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -2011,7 +2013,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Természetes anyagok mágiája",
         "arcanum": "Nagy arkánum",
-        "type": "Litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -2024,7 +2026,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Mentál",
         "arcanum": "Nagy arkánum",
-        "type": "Litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -2037,7 +2039,7 @@ export const magusData = [
         "range": "100Km",
         "me_type": "Mentál, Térmágia",
         "arcanum": "Nagy arkánum",
-        "type": "Litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -2050,7 +2052,7 @@ export const magusData = [
         "range": "1km",
         "me_type": "Időjárás",
         "arcanum": "Nagy arkánum",
-        "type": "Litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -2063,7 +2065,7 @@ export const magusData = [
         "range": "5m",
         "me_type": "Térmágia",
         "arcanum": "Nagy arkánum",
-        "type": "Litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -2076,7 +2078,7 @@ export const magusData = [
         "range": "5m",
         "me_type": "Térmágia",
         "arcanum": "Nagy arkánum",
-        "type": "Litániái",
+        "type": "Litánia",
         "sphere": "Természet"
     },
     {
@@ -2089,7 +2091,7 @@ export const magusData = [
         "range": "15m",
         "me_type": "-",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -2102,7 +2104,7 @@ export const magusData = [
         "range": "5km",
         "me_type": "Időjárás",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -2115,7 +2117,7 @@ export const magusData = [
         "range": "-",
         "me_type": "Térmágia",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -2128,7 +2130,7 @@ export const magusData = [
         "range": "20m",
         "me_type": "Térmágia",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -2141,7 +2143,7 @@ export const magusData = [
         "range": "-",
         "me_type": "Térmágia",
         "arcanum": "Nagy arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     },
     {
@@ -2154,7 +2156,7 @@ export const magusData = [
         "range": "2km",
         "me_type": "Időjárás",
         "arcanum": "arkánum",
-        "type": "rituáléi",
+        "type": "Rituálé",
         "sphere": "Természet"
     }
 ]
