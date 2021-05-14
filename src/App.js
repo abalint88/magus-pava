@@ -1,15 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import './scss/styles.scss';
 
 import { makeStyles } from '@material-ui/core/styles';
 
-import { magusData } from "./data"
+import { magusData } from "./data/data"
 import MUIDataTable from 'mui-datatables';
 import TableRow from "@material-ui/core/TableRow";
 import TableCell from "@material-ui/core/TableCell";
+import { huHU } from '@material-ui/core/locale';
+
+import green from '@material-ui/core/colors/green';
+
+import { ThemeProvider, createMuiTheme } from '@material-ui/core/styles';
+import CssBaseline from '@material-ui/core/CssBaseline';
 
 import Paper from '@material-ui/core/Paper';
 import Grid from '@material-ui/core/Grid';
+
+
+const theme = createMuiTheme({
+  palette: {
+    type: "light",
+    primary: green,
+    secondary: green,
+  },
+}, huHU);
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -101,12 +115,24 @@ function App() {
             <Grid container spacing={3}>
               <Grid item xs>
                 <Paper className={classes.paper}>
-                  E: {rowData[2]}
-                  +E/Mp: {rowData[3]}
-                  Varázslás Ideje: {rowData[4]}
-                  Időtartam: {rowData[5]}
-                  Hatótáv: {rowData[6]}
-                  ME Típusa: {rowData[7]}
+                  <span className="attr">
+                    E: {rowData[2]}
+                  </span>
+                  <span className="attr">
+                    +E/Mp: {rowData[3]}
+                  </span>
+                  <span className="attr">
+                    Varázslás Ideje: {rowData[4]}
+                  </span>
+                  <span className="attr">
+                    Időtartam: {rowData[5]}
+                  </span>
+                  <span className="attr">
+                    Hatótáv: {rowData[6]}
+                  </span>
+                  <span className="attr">
+                    ME Típusa: {rowData[7]}
+                  </span>
                 </Paper>
               </Grid>
               <Grid item xs>
@@ -123,14 +149,10 @@ function App() {
   }
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <div style={{ maxWidth: '100%' }}>
-          <MUIDataTable options={options} columns={columns} data={magusData} title='Papi varázslatok' />
-        </div>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <CssBaseline />
+      <MUIDataTable options={options} columns={columns} data={magusData} title='Papi varázslatok' />
+    </ThemeProvider>
   );
 }
 
