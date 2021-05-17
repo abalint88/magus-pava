@@ -1,0 +1,14 @@
+td {
+  padding: 0.2rem 0.5rem;
+  text-align: left;
+  padding-right: 3rem;
+  .title {
+    font-weight: bold;
+  }
+}
+
+tr {
+  &:nth-child(odd) {
+    background: #ccc;
+  }
+}
